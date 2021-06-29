@@ -1,8 +1,6 @@
-# E-Commerce-Bookstore (Deprecated)
+# E-Commerce-Bookstore
 
 This project is built following the Udemy online course Complete E-Commerce: Java, Spring Boot and Hibernate. This project consists of two parts: the user side and the admin portal. 
-
-~~The demo of the user side is deployed on Azure~~.
 
 The main techniques involved in this project are following:
 
